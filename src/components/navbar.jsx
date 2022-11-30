@@ -1,8 +1,8 @@
-import Logo from "./Navbar/logo";
-import Menu from "./Navbar/menu";
-import Cart from "./Navbar/cart";
-import User from "./Navbar/user";
-import "./navbar.css";
+import Logo from "./Navbar/Logo";
+import Menu from "./Navbar/Menu";
+import Cart from "./Navbar/Cart";
+import User from "./Navbar/User";
+import "../components/Navbar.css"
 
 const Navbar = () => {
   return (

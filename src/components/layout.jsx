@@ -1,5 +1,5 @@
-import Products from "./products";
-import useFetch from "../components/customHooks/useFetch";
+import Products from "./Products";
+import useFetch from "./customHooks/useFetch";
 
 const Layout = () => {
   const apiUrl =

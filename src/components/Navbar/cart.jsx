@@ -3,7 +3,7 @@ import { ImCart } from "react-icons/im";
 const Cart = () => {
   return (
     <div className="Cart">
-      <a href="/cart">
+      <a href="/Cart">
         <ImCart />
       </a>
     </div>
