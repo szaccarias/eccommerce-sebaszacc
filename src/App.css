@@ -1,11 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-* {
-  padding: 0;
-  margin: 0;
-  color: black;
-  font-family: sans-serif;
-    text-decoration: none;
-}
-.App {
 
-}
+@layer components {
+    .categorias a {
+      @apply p-2 border-solid hover:border-black rounded border hover:shadow-md;
+    }
+    .ActiveOption{
+      @apply border-black bg-blue-50 shadow-md;
+    }
+  }
+
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;900&display=swap');
