@@ -1,11 +1,11 @@
 import "./App.css";
-import Navbar from "./components/NavBar";
-import Sidebar from "./components/Sidebar";
+import Navbar from "./components/navbar";
+import Sidebar from "./components/sidebar";
 import ItemListContainer from "./components/ItemListContainer";
 import ItemDetailContainer from "./components/ItemDetailContainer";
 
 
-import Footer from "./components/Footer";
+import Footer from "./components/footer";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
