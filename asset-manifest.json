@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ecommerce-sebaszacc/static/css/main.f65f7583.css",
+    "main.js": "/ecommerce-sebaszacc/static/js/main.8072ec0d.js",
+    "index.html": "/ecommerce-sebaszacc/index.html",
+    "main.f65f7583.css.map": "/ecommerce-sebaszacc/static/css/main.f65f7583.css.map",
+    "main.8072ec0d.js.map": "/ecommerce-sebaszacc/static/js/main.8072ec0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f65f7583.css",
+    "static/js/main.8072ec0d.js"
+  ]
+}
